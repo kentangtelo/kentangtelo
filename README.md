@@ -2,5 +2,3 @@
 
 ## WHY DID YOU COME HERE?
 I do code to survive
-
-**Currently learning everything to apply an internship**
